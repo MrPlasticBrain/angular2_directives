@@ -1,0 +1,12 @@
+div{
+    height: 100px;
+    width: 200px;
+}
+.border{
+    border: 3px solid black;
+}
+.backgroundColor {
+background-color: red;
+
+}
+
